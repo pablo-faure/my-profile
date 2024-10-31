@@ -1,0 +1,138 @@
+body {
+	background-color:#61677A;
+	color: black;
+	font-size: ;
+	font-weight: ;
+	text-decoration: ;
+		}
+
+	h1 {
+	font-family:"Pacifico", cursive;
+	color: #FFD369;
+	text-decoration: underline;
+	}
+
+	h2, h3 {
+
+	font-family:"Pacifico", cursive;
+	font-weight: 100;
+	font-style: normal;
+	color: #FFD369;
+	 text-decoration: underline;
+	}
+
+	a {
+	color: #222831;
+	text-decoration: ;
+	font-family:"Pacifico", cursive;
+	}
+
+	a:hover {
+	color: #FFD369;	
+	}
+
+	p{
+		font-family:"Lexend";
+		color: #222831;
+	}
+
+	ul {
+		color: #222831;
+		font-family:"Lexend";
+	
+		}
+			h4 {
+				color: #222831;
+				font-family:"Lexend";	
+			}
+
+			img {
+				border-radius: 20%;
+			}
+#61677A
+
+
+/* Custom design with class*/
+.container{
+	width: 700px;
+	margin: 40px auto;
+}
+
+
+@media (max-width:760px) {
+	.container{
+		width: 600px;
+	}
+}
+
+@media (max-width: 500px) {
+	.container {
+		width: 400px;
+	}
+}
+
+
+
+
+.card-white {
+	background-color: whitesmoke;
+	border-radius: 30px;
+	box-shadow: 0px 10px 30px;
+	text-align: center;
+	margin: 50px;
+	padding: 70px;
+}
+
+
+.btn-yellow {
+	background-color: #222831;
+	color: #FFD369;
+	padding: 15px 20px;
+	border-radius: 30px;
+}
+
+.btn-yellow:hover {
+	background-color: #FFD369;
+	color: #222831;
+}
+
+
+.img-circle {
+	border-radius: 50% ;
+}
+
+.list-inline {
+	list-style: ;
+	padding-left: 0px;
+	display: inline;
+}
+
+.list-inline li {
+	list-style: none;
+}
+
+.list-social li {
+	list-style: none;
+	display: inline;
+	padding: 10px;
+}
+
+.list-social i {
+	font-size: 50px;
+	font-display: inline;
+}
+
+
+/* Design adjustements */
+#introduction p {
+	margin-bottom: 40px;
+}
+
+
+
+
+
+
+
+
+
